@@ -68,7 +68,7 @@ static unsigned char default_inst[OPLL_TONE_NUM][(16 + 3) * 16] = {
 #include "2413tone.h" 
   },
   {
-#include "vrc7tone.h"
+#include "2413tone.h"		// // // Exchange VRC7 patchset for YM2413 proper.
    },
 //  {
 //#include "281btone.h"
