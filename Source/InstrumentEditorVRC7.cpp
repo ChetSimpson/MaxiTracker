@@ -32,7 +32,7 @@
 
 static unsigned char default_inst[(16+3)*16] = 
 {
-#include "apu/vrc7tone.h" 
+#include "apu/2413tone.h"		// // // Use 2413 patches in instrument editor UI.
 };
 
 // CInstrumentSettingsVRC7 dialog
