@@ -27,6 +27,8 @@ If you want to playback on a real MSX machine, you're a masochist. Write a drive
 
 Other MSX sound chips, such as MSX-Audio, should be supported eventually. Please, PRs welcome.
 
+VRC7 9 channel debug test register mode and the OPLL DAC test register are not supported or implemented. If you wish to do so, PRs welcome.
+
 Nothing else is changed or removed from j0cc-FamiTracker, including instrument labels and expansion chip names. **PRs welcome.**
 
 # Contributing
