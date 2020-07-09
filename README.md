@@ -11,6 +11,8 @@ Two changes.
    
 **To use YM2413 OPLL, select VRC7; to use AY/YM, select 5B.**
 
+A download for Windows provided by [simontime](https://github.com/simontime) is available [here](https://github.com/sirocyl/MaxiTracker/files/3440625/MaxiTracker.zip).
+
 # Major functional limitations:
 
 Names and labels have not been updated; PRs welcome.
